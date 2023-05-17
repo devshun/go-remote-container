@@ -23,7 +23,7 @@
   "customizations": {
     "vscode": {
       "settings": {},
-      "extensions": ["github.copilot"]
+      "extensions": []
     }
   }
 
